@@ -66,6 +66,7 @@ Frequently-solved problems in web component form.
 - [`<flex-grid>`](https://github.com/lekoala/flex-grid)⚡[demo](https://codepen.io/lekoalabe/pen/ExWowBM)
 - [`<scrollable-component>`](https://github.com/julien-marcou/scrollable-component)⚡[demo](https://scrollable.julien-marcou.fr/)
 - [`<unicode-emoji-picker>`](https://github.com/julien-marcou/unicode-emoji-picker)⚡[demo](https://emoji.julien-marcou.fr/)
+- [`<rgba-color-picker> and <hex-color-picker>`](https://github.com/web-padawan/vanilla-colorful)⚡[demo](https://iamkulykov.com/vanilla-colorful/)
 
 ## Novelty Elements
 

@@ -58,6 +58,7 @@ Frequently-solved problems in web component form.
 - [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
 - [`<bt-device>`](https://github.com/mattdsteele/bt-device)
 - [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
+- [`<flex-grid>`](https://github.com/lekoala/flex-grid)
 
 ## Novelty Elements
 

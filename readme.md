@@ -52,6 +52,9 @@ Frequently-solved problems in web component form.
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 - [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element)
 - [`<accordion-container>`](https://github.com/levimcg/accordion-container-element)
+- [`<wc-menu-button>`](https://github.com/wes566/wc-menu-button)
+- [`<side-drawer>`](https://github.com/wes566/side-drawer)
+- [`<infinite-carousel-wc>`](https://github.com/wes566/infinite-carousel-wc)
 
 ## Novelty Elements
 

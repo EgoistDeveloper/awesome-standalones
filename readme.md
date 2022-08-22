@@ -55,6 +55,7 @@ Frequently-solved problems in web component form.
 - [`<wc-menu-button>`](https://github.com/wes566/wc-menu-button)
 - [`<side-drawer>`](https://github.com/wes566/side-drawer)
 - [`<infinite-carousel-wc>`](https://github.com/wes566/infinite-carousel-wc)
+- [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
 
 ## Novelty Elements
 

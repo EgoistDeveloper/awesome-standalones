@@ -50,6 +50,7 @@ Frequently-solved problems in web component form.
 - [`<slide-show>`](https://stephen.band/slide-show/)
 - [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
+- [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element)
 
 ## Novelty Elements
 

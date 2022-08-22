@@ -65,6 +65,7 @@ Frequently-solved problems in web component form.
 - [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
 - [`<flex-grid>`](https://github.com/lekoala/flex-grid)
 - [`scrollable-component`](https://github.com/julien-marcou/scrollable-component)⚡[demo](https://scrollable.julien-marcou.fr/)
+- [unicode-emoji-picker](https://github.com/julien-marcou/unicode-emoji-picker)⚡[demo](https://emoji.julien-marcou.fr/)
 
 ## Novelty Elements
 

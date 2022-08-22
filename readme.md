@@ -51,6 +51,7 @@ Frequently-solved problems in web component form.
 - [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 - [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element)
+- [`<accordion-container>`](https://github.com/levimcg/accordion-container-element)
 
 ## Novelty Elements
 

@@ -49,6 +49,7 @@ Frequently-solved problems in web component form.
 - [`<l-i>`](https://github.com/lekoala/last-icon)
 - [`<slide-show>`](https://stephen.band/slide-show/)
 - [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
+- [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 
 ## Novelty Elements
 

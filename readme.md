@@ -48,6 +48,7 @@ Frequently-solved problems in web component form.
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
 - [`<l-i>`](https://github.com/lekoala/last-icon)
 - [`<slide-show>`](https://stephen.band/slide-show/)
+- [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
 
 ## Novelty Elements
 

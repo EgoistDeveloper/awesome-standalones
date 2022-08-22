@@ -5,9 +5,14 @@
 
 ## Contents
 
-- [Element Extensions](#element-extensions)
-- [Custom Elements](#custom-elements)
-- [Novelty Elements](#novelty-elements)
+- [Awesome Standalones ![Awesome](https://awesome.re)](#awesome-standalones-)
+  - [Contents](#contents)
+  - [Element Extensions](#element-extensions)
+    - [`<time>` Elements](#time-elements)
+  - [Custom Elements](#custom-elements)
+  - [Novelty Elements](#novelty-elements)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 
 ## Element Extensions
@@ -59,6 +64,7 @@ Frequently-solved problems in web component form.
 - [`<bt-device>`](https://github.com/mattdsteele/bt-device)
 - [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
 - [`<flex-grid>`](https://github.com/lekoala/flex-grid)
+- [`scrollable-component`](https://github.com/julien-marcou/scrollable-component)⚡[demo](https://scrollable.julien-marcou.fr/)
 
 ## Novelty Elements
 

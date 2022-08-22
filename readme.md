@@ -57,6 +57,7 @@ Frequently-solved problems in web component form.
 - [`<infinite-carousel-wc>`](https://github.com/wes566/infinite-carousel-wc)
 - [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
 - [`<bt-device>`](https://github.com/mattdsteele/bt-device)
+- [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
 
 ## Novelty Elements
 
